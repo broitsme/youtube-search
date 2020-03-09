@@ -1,0 +1,7 @@
+#result-list{
+  display: flex;
+  flex-direction: row;
+}
+#result-list > div{
+  border: 5px solid red;
+}
