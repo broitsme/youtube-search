@@ -1,6 +1,7 @@
 #result-list{
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 #result-list > div{
   border: 5px solid red;
